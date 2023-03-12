@@ -33,11 +33,13 @@ const Layout = (props) => (
         }
       }
 
-      @media only screen and (min-width: 768px) and (max-width: 1024px) {
+      @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
         .layout-container {
           margin: 15px;
           padding: 15px;
           border: 1.5px solid #333;
+          margin-top: 50%;
+          transform: translateY(-50%);
         }
       }
 
