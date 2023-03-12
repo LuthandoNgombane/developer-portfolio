@@ -37,9 +37,9 @@ export default () => (
       <p style={paragraphStyle}>I believe in work that is simple and clean in appearance. To me the beauty of the end product is just as important as functionality.</p>
       <h2 style={subHeadingStyle}>Education</h2>
       <hr/>
-      <p style={paragraphStyle}>I have completed App Brewery & Udemy - The Complete 2023 Web Development Bootcamp and I have completed 95% of HyperionDev - Fullstack Web Development. <br> 
+      <p style={paragraphStyle}>I have completed App Brewery & Udemy - The Complete 2023 Web Development Bootcamp and I have completed 95% of HyperionDev - Fullstack Web Developer Bootcamp. <br> 
         I am currently busy with :<br>
-        1. ALX - software engineering,<br>
+        1. ALX - software engineering <br>
         2. IT Academy - Software Programming <br>
         3. BYU-Pathway WorldWide : Bachelor in Applied Science (Technology)
           </p>
